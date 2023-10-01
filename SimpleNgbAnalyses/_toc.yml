@@ -1,0 +1,14 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: Multiomics/Multiomics
+  sections:
+  - file: Multiomics/SEM
+  - file: Multiomics/RandomForests
+  - file: Multiomics/CooccuranceNetworks
+- file: SatelliteRemoteSensing/SatelliteRemoteSensing
+  sections:
+  - file: SatelliteRemoteSensing/MODISNDVIAnalysis
