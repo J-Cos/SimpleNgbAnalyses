@@ -9,6 +9,7 @@ chapters:
   - file: Multiomics/SEM
   - file: Multiomics/RandomForests
   - file: Multiomics/CooccuranceNetworks
+- file: Bioinformatics/Bioinformatics
 - file: SatelliteRemoteSensing/SatelliteRemoteSensing
   sections:
   - file: SatelliteRemoteSensing/MODISNDVIAnalysis
